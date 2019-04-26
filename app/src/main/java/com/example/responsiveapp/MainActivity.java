@@ -33,8 +33,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
-
 /*Phones - telas e tamanhos:
 VALORES APROXIMADOS, O QUE CONTA REALMENTE É A RESOLUÇÃO/DENSIDADE DOS PIXELS
 
